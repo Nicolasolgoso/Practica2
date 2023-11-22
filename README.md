@@ -33,9 +33,14 @@ First of all you have to make sure you have python and visual studio code downlo
 ### Progress
 Once the program is running you need to:
 * Enter the data you want to calculate statistics about (it is important to leave spaces between each frame of data you enter)
+  
 * It will give you the mean and the standard deviation
+  
 * Then it will give you three options, you have to choose one entering a number from 1 to 3
+  
 * If you choose 1 you will have to enter the null hypothesis mean and it will give you test statistic that  tells you how much your data deviates from the null hypothesis and the p value that provides a measure of evidence against the null hypothesis
+  
 * If you choose 2 you will have to enter another list of data and it will give you the same things that in option one but for the two lists of data
+  
 * If you choose 3 its going to ask you for the frecuences observed and the frecuences spected separeted by spaces, its important that both of them have the same length for example (3 4 3) and (5 4 1) and then it will give you the test statistic that measures the discrepancy between the observed and expected frequencies and the p value.
   
