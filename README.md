@@ -18,11 +18,11 @@ Project is created with:
 First of all you have to make sure you have python and visual studio code downloaded. If not you can download it on your browser. Once you have installed it: 
 * Clone this repository:
   ```
-  https://github.com/Nicolasolgoso/Practica2.git
+  https://github.com/Nicolasolgoso/final-exercise.git
   ```
 * Paste it on your browser and enter the repository:
   ```
-  cd.Practica2
+ 
   ```
 * Once you are on the page of the repository click on:
   ```
